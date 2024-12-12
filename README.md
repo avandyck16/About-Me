@@ -1,8 +1,6 @@
-https://imgur.com/kbwZM4K
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/So4rLmD" data-context="false" ><a href="//imgur.com/a/So4rLmD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-![](https://komarev.com/ghpvc/?username=avandyck16&base=100&abbreviated=true)
+<img src="https://imgur.com/kbwZM4K" alt="Axel Van Dyck - QA | Software Quality Tester" width="600">
 
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,powershell,postman,postgres,git,figma,azure,discord&perline=6)](https://skillicons.dev)
