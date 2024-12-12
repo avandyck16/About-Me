@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=avandyck16)
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,powershell,postman,postgres,git,figma,azure,discord&perline=6)](https://skillicons.dev)
 
 
