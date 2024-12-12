@@ -21,7 +21,7 @@ I’m open to working on projects—big or small—that can help me grow and mak
 
 📫 Let’s Connect!
 
-![Notion-logo svg](https://github.com/user-attachments/assets/84d97276-72fe-4286-ac83-94503fba1710)
+
 LinkedIn: https://linkedin.com/in/axelvandyck
 Notion Profile: https://bit.ly/Profile-Notion
 
