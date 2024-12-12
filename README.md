@@ -6,21 +6,27 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,powershell,postman,postgres,git,figma,azure,discord&perline=6)](https://skillicons.dev)
 
 
+👋 Hi, I’m @avandyck16
 
+🌟 About Me
+I’m a bilingual QA Engineer with experience in the educational and business sectors. Passionate about creating efficient workflows and leveraging modern QA tools like Azure DevOps, JIRA, Postman, Charles, Python, and SQL to ensure top-notch product quality.
 
+I have a sharp eye for detail and a knack for hunting bugs to prevent issues, improve product quality, and reduce error rates. Plus, I find it fun to tell developers when they’ve made a mistake—always with kindness and a collaborative mindset!
 
-- 👋 Hi, I’m @avandyck16
-- 👀 I’m interested in software, machine learning, and quality testing. It's kinda fun to tell developers that they have made a mistake!
-- 🌱 I’m digging deeper into Python, automation, and QA Testing.
-- 💞️ I’m looking to collaborate on either small or big projects that can help me build experience and skills.
-- 📫 How to reach me? Check my profiles:. 
-              linkedin.com/in/axelvandyck
-              http://bit.ly/Profile-Notion
+🚀 What I’m Working On
+Diving deeper into Python, automation, and QA Testing to sharpen my skills.
+Exploring machine learning and software development to expand my horizons.
+🤝 Collaboration
+I’m open to working on projects—big or small—that can help me grow and make an impact. Whether it’s developing automation scripts, improving testing workflows, or building QA strategies, I’m ready to contribute.
 
-- 😄 Fun fact: I'm an introvert who can learn how to use any software in a couple of days almost like a pro. 
-                I learned how to model in 3D for a videogame by myself just by playing around with the software and the game,
-                and learned how to play around with a machine through command lines.
+📫 Let’s Connect
+LinkedIn: linkedin.com/in/axelvandyck
+Notion Profile: http://bit.ly/Profile-Notion
 
+😄 Fun Facts
+I’m an introvert, but I love tackling new challenges and learning quickly.
+I taught myself 3D modeling for a video game by experimenting with software and game assets.
+I enjoy mastering software tools in just a few days—almost like a pro!
 <!---
 avandyck16/avandyck16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
