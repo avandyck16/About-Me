@@ -1,10 +1,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,powershell,postman,postgres,git,figma,azure,discord&perline=6)](https://skillicons.dev)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="androidstudio,azure,sentry,py,pycharm,powershell,postman,postgres,git,figma,azure,discord&perline=6)" />
-  </a>
-</p>
+
 
 
 
