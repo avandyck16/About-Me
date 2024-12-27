@@ -3,7 +3,7 @@
 ![Email Footer](https://github.com/user-attachments/assets/c6cfdf0a-1ce4-4ab9-b3ce-d7f19b6a33d6)
 
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma,azure,discord&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma,azure&perline=6)](https://skillicons.dev)
 
 
 👋 Hi, I’m @avandyck16
