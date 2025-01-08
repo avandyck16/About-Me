@@ -10,7 +10,7 @@
 
 🌟 About Me
 
-I’m a bilingual QA Engineer with experience in the educational and business sectors. Passionate about creating efficient workflows and leveraging modern QA tools like Azure DevOps, JIRA, Postman, Python, and SQL to ensure top-notch product quality.
+I’m a bilingual QA Tester with experience in the educational and business sectors. Passionate about creating efficient workflows and leveraging modern QA tools like Azure DevOps, JIRA, Postman, Python, and SQL to ensure top-notch product quality.
 
 I have a sharp eye for detail and a knack for hunting bugs to prevent issues, improve product quality, and reduce error rates. Plus, I find it fun to tell developers when they’ve made a mistake—always with kindness and a collaborative mindset!
 
