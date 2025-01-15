@@ -1,8 +1,22 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma)](https://skillicons.dev) 
 ##
+
+<!---
 ### Visit my digital resume: 
-[![My Notion Page](https://github.com/user-attachments/assets/5cd54984-5c01-4698-a121-520ef1cf6938)](https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8)
+   [![My Notion Page](https://github.com/user-attachments/assets/5cd54984-5c01-4698-a121-520ef1cf6938)](https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8)
+--->
+
+
+### Visit my digital resume:
+
+<div align="center">
+  <a href="https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8">
+    <img src="https://github.com/user-attachments/assets/5cd54984-5c01-4698-a121-520ef1cf6938" alt="My Notion Page" width="330"/>
+  </a>
+</div>
+
+   
 <!---
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:acontreras9012@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/axelvandyck) [![My Skills](https://skillicons.dev/icons?i=notion)](https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8) 
 
