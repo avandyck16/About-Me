@@ -1,23 +1,19 @@
 
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma)](https://skillicons.dev) 
+##
+### Visit my digital resume: 
+[![My Notion Page](https://github.com/user-attachments/assets/5cd54984-5c01-4698-a121-520ef1cf6938)](https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8)
+<!---
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:acontreras9012@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/axelvandyck) [![My Skills](https://skillicons.dev/icons?i=notion)](https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8) 
 
-![Email Footer](https://github.com/user-attachments/assets/c6cfdf0a-1ce4-4ab9-b3ce-d7f19b6a33d6)
-
-
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma,notion&perline=6)](https://skillicons.dev)
-
-
-
-
-
-
-[![My Notion Page](https://github.com/user-attachments/assets/d3f4c9cb-1786-47c0-aed5-49b107712fe7)](https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8)
+##
 
 
+<!---
 ![my-notion-face-customized (1)](https://github.com/user-attachments/assets/d3f4c9cb-1786-47c0-aed5-49b107712fe7)
+--->
 
-
-
-👋 Hi, I’m Axel Van Dyck - @avandyck16
+## 👋 Hi, I’m Axel Van Dyck - @avandyck16
 
 🌟 About Me
 
@@ -27,7 +23,7 @@ I have a sharp eye for detail and a knack for hunting bugs to prevent issues, im
 
 🚀 What I’m Working On  
 
-So far, I've been actively participating in more than 6 projects, including a social betting app, cosmetics and medical prostheses development and management, urban transportation, media sharing, and third-party logistics; developing more than 350 test scenarios and diverse strategies at logic, functionality, and design to harness data and put my hands and brain to work to excel at product quality. 
+So far, I've been actively participating in around 8 projects, including a social betting app, cosmetics and medical prostheses development and management, urban transportation, media sharing, and third-party logistics; developing more than 350 test scenarios and diverse strategies at logic, functionality, and design to harness data and put my hands and brain to work to excel at product quality. 
 
 Setting my focus on manual testing, as I keep diving deeper into Python, automation, and QA Testing to sharpen my skills.  
 Exploring the technical universe and software development to expand my horizons.  
@@ -40,17 +36,23 @@ I’m open to working on projects—big or small— and being part of a structur
 
 📫 Let’s Connect!
 
-Gmail: acontreras9012@gmail.com
-LinkedIn: https://linkedin.com/in/axelvandyck
-Notion Profile: https://bit.ly/Profile-Notion
+### Gmail: [![acontreras9012@gmail.com](https://skillicons.dev/icons?i=gmail)](mailto:acontreras9012@gmail.com)
 
 
-😄 Fun Facts  
+### LinkedIn: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/axelvandyck)
+
+### Notion Profile: [![My Skills](https://skillicons.dev/icons?i=notion)](https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8) 
+
+
+# 😄 Fun Facts  
 
 I’m an introvert, but I love tackling new challenges and learning quickly.  
 I taught myself 3D modeling for a video game by experimenting with software and game assets.  
-I thrive on composing pretty good technical documentation!  
+I am pretty darn good on composing technical documentation!  
 I enjoy mastering software tools in just a few days—almost like a pro!  
+
+![Email Footer](https://github.com/user-attachments/assets/c6cfdf0a-1ce4-4ab9-b3ce-d7f19b6a33d6)
+
 <!---
 avandyck16/avandyck16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
