@@ -11,7 +11,7 @@
 ### Visit my digital resume:
 
 <div align="center">
-  <a href="https://qa-warrior.notion.site/Axel-Van-Dyck-EN-17b57b9508108021aeccf6b7a46f98bf?pvs=4">
+  <a href="https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8?pvs=4">
     <img src="https://github.com/user-attachments/assets/5cd54984-5c01-4698-a121-520ef1cf6938" alt="My Notion Page" width="330"/>
   </a>
 </div>
