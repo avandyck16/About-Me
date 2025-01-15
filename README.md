@@ -1,3 +1,6 @@
+   Please review this page in English as Spanish translation may not be accurate.
+   ##
+## 👋 Hi, I’m Axel Van Dyck - @avandyck16
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma)](https://skillicons.dev) 
 ##
@@ -16,7 +19,7 @@
   </a>
 </div>
 
-   
+##   
 <!---
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:acontreras9012@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/axelvandyck) [![My Skills](https://skillicons.dev/icons?i=notion)](https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8) 
 
@@ -27,7 +30,7 @@
 ![my-notion-face-customized (1)](https://github.com/user-attachments/assets/d3f4c9cb-1786-47c0-aed5-49b107712fe7)
 --->
 
-## 👋 Hi, I’m Axel Van Dyck - @avandyck16
+
 
 🌟 About Me
 
