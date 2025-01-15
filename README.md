@@ -7,9 +7,13 @@
 
 
 
-[![My Notion Page](https://file.notion.so/f/f/050d0ef3-d822-430d-b411-b088b288a8f6/7968811b-f1a0-4aaf-ad1b-d9ed8c886eb5/my-notion-face-customized_(1).png?table=block&id=b6af6dad-defe-4af0-9765-4b4b81b393f3&spaceId=050d0ef3-d822-430d-b411-b088b288a8f6&expirationTimestamp=1736978400000&signature=Dmm1CqeaowICqOo20cgPFIF55LlHJIzUWvPCfCpiwCI&downloadName=my-notion-face-customized+%281%29.png)](https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8)
 
 
+
+[![My Notion Page](https://github.com/user-attachments/assets/d3f4c9cb-1786-47c0-aed5-49b107712fe7)](https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8)
+
+
+![my-notion-face-customized (1)](https://github.com/user-attachments/assets/d3f4c9cb-1786-47c0-aed5-49b107712fe7)
 
 
 
