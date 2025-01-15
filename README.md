@@ -6,6 +6,13 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma,notion&perline=6)](https://skillicons.dev)
 
 
+
+[![My Notion Page](https://prod-files-secure.s3.us-west-2.amazonaws.com/050d0ef3-d822-430d-b411-b088b288a8f6/7968811b-f1a0-4aaf-ad1b-d9ed8c886eb5/my-notion-face-customized_(1).png)](https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8)
+
+
+
+
+
 👋 Hi, I’m Axel Van Dyck - @avandyck16
 
 🌟 About Me
