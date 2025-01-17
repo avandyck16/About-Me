@@ -21,9 +21,9 @@
 
 ---
 
+<div align="center">
 
-
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma)](https://skillicons.dev)
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -38,6 +38,11 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+</div>
+
+
+
 
 ##
 
@@ -103,7 +108,7 @@ I taught myself 3D modeling for a video game by experimenting with software and 
 I am pretty darn good on composing technical documentation!  
 I enjoy mastering software tools in just a few days—almost like a pro!  
 
-![Email Footer](https://github.com/user-attachments/assets/c6cfdf0a-1ce4-4ab9-b3ce-d7f19b6a33d6)
+[![Email Footer](https://github.com/user-attachments/assets/31f49e3f-acfa-4e0a-87f0-f0d3cce955e3)](https://linkedin.com/in/axelvandyck)
 
 <!---
 avandyck16/avandyck16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
