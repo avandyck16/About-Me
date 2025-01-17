@@ -1,4 +1,4 @@
-   Please review this page in English as Spanish translation may not be accurate.
+*Please review this page in English as Spanish translation may not be accurate.*
    ##
 ## 👋 Hi, I’m Axel Van Dyck - @avandyck16
 <div align="center">
@@ -47,11 +47,10 @@
 --->
 
 
-### Visit my digital resume:
 
 <div align="center">
   <a href="https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8?pvs=4">
-    <img src="https://github.com/user-attachments/assets/5cd54984-5c01-4698-a121-520ef1cf6938" alt="My Notion Page" width="330"/>
+    <img src="https://github.com/user-attachments/assets/46455058-25e0-4dc2-87f0-afdaee3dc685" alt="My Notion Page" width="330"/>
   </a>
 </div>
 
