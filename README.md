@@ -108,7 +108,8 @@ I taught myself 3D modeling for a video game by experimenting with software and 
 I am pretty darn good on composing technical documentation!  
 I enjoy mastering software tools in just a few days—almost like a pro!  
 
-[![Email Footer](https://github.com/user-attachments/assets/31f49e3f-acfa-4e0a-87f0-f0d3cce955e3)](https://linkedin.com/in/axelvandyck)
+[![Email Footer](https://github.com/user-attachments/assets/63f60569-69b9-4479-827a-e5e384eaa034)](https://linkedin.com/in/axelvandyck)
+
 
 <!---
 avandyck16/avandyck16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
